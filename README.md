@@ -1,5 +1,4 @@
-# LPR-Predator
-license plate reader parking lot management tow truck
+PREDATOR
 # Predator
 
 **Copyright 2022 V0LT - Conner Vieira**
